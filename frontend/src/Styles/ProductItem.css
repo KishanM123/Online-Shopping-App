@@ -1,0 +1,17 @@
+/* src/components/ProductItem.css */
+.product-item {
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    width: 100px;
+  }
+  
+  .product-item h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .product-item p {
+    margin: 6px 0;
+  }
+  

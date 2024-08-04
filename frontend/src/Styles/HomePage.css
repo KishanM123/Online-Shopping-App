@@ -1,0 +1,13 @@
+/* src/Styles/HomePage.css */
+.home-page {
+  padding: 20px; /* Add padding to avoid overlap with header */
+  padding-top: 80px; /* Ensure space under the fixed header */
+}
+
+.home-page h1 {
+  position: absolute;
+  top: 110px; /* Position right below the header */
+  left: 20px; /* Align to the left side */
+  margin: 0;
+  font-size: 44px;
+}

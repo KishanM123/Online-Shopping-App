@@ -1,0 +1,5 @@
+C:\Users\GGPC\online-shopping-app\ShoppingApp.Tests\obj\Debug\net8.0\ShoppingApp.Tests.csproj.AssemblyReference.cache
+C:\Users\GGPC\online-shopping-app\ShoppingApp.Tests\obj\Debug\net8.0\ShoppingApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GGPC\online-shopping-app\ShoppingApp.Tests\obj\Debug\net8.0\ShoppingApp.Tests.AssemblyInfoInputs.cache
+C:\Users\GGPC\online-shopping-app\ShoppingApp.Tests\obj\Debug\net8.0\ShoppingApp.Tests.AssemblyInfo.cs
+C:\Users\GGPC\online-shopping-app\ShoppingApp.Tests\obj\Debug\net8.0\ShoppingApp.Tests.csproj.CoreCompileInputs.cache

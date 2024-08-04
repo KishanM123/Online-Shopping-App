@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // Output directory for compiled files
+    "target": "es2019", // Target ECMAScript version for Node.js
+    "module": "commonjs", // CommonJS is commonly used for Node.js modules
+    "strict": true, // Enable strict type checking options
+    "esModuleInterop": true, // Handle default imports with interop
+    "skipLibCheck": true, // Skip type checking of all declaration files
+    "moduleResolution": "node", // Use Node.js module resolution
+    "resolveJsonModule": true, // Include support for JSON imports
+    "sourceMap": true // Enable source map generation for debugging
+  },
+  "include": ["src/**/*"], // Include all TypeScript files in the src directory
+  "exclude": ["node_modules", "dist"] // Exclude node_modules and the output directory
+}

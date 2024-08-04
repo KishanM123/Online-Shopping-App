@@ -1,0 +1,15 @@
+/* src/Styles/ProductDetailPage.css */
+.product-detail {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.product-detail img {
+  width: 300px;
+  height: auto;
+}
+
+.product-detail-info {
+  max-width: 500px;
+}
